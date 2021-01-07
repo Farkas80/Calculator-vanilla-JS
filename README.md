@@ -14,7 +14,7 @@ Calculator - vanilla JS
 Calculator created with vanilla Javascript. A fun challenge to pick up new skills and to impress my kids :).
 
 ## Screenshots
-![Example screenshot](Calculator.png)
+![Calculator](Calculator.png)
 
 ## Technologies
 * Tech 1 - HTML5
